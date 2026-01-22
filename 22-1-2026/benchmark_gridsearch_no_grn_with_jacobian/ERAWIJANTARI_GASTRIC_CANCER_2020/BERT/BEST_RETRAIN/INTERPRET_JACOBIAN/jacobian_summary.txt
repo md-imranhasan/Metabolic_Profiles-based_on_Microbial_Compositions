@@ -1,6 +1,0 @@
-Model: BERT
-Dataset: ERAWIJANTARI_GASTRIC_CANCER_2020
-Used samples: 20
-Selected metabolites (by test Spearman): 25
-Top microbe by importance: d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Bordetella_A;s__Bordetella_A sp002261265
-Top metabolite by importance: C01029_N8-Acetylspermidine
