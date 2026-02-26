@@ -1,0 +1,7 @@
+dataset,status,path,x_used,y_used,metadata_used,n_total,n_train,n_test,n_features,n_targets,mean_spearman_rho,well_predicted_rho_ge_0_3,best_rho,best_val_loss,best_epoch,best_model_path
+FRANZOSA_IBD_2019,ok,E:\Dr_Tang\Code\FRANZOSA_IBD_2019,species.tsv,mtb.tsv,False,220,176,44,25768,8848,0.4347612398293618,6576,0.8957011980267793,0.35968029499053955,96,saved_models\best_bert_wide_FRANZOSA_IBD_2019.pth
+WANG_ESRD_2020,ok,E:\Dr_Tang\Code\WANG_ESRD_2020,species.tsv,mtb.tsv,False,287,229,58,30684,276,0.28273129269442,136,0.7261681380540774,0.31622248888015747,49,saved_models\best_bert_wide_WANG_ESRD_2020.pth
+ERAWIJANTARI_GASTRIC_CANCER_2020,ok,E:\Dr_Tang\Code\ERAWIJANTARI_GASTRIC_CANCER_2020,species.tsv,mtb.tsv,False,96,76,20,25507,339,0.13144186557387802,80,0.7463731012296735,0.3925190567970276,28,saved_models\best_bert_wide_ERAWIJANTARI_GASTRIC_CANCER_2020.pth
+YACHIDA_CRC_2019,ok,E:\Dr_Tang\Code\YACHIDA_CRC_2019,species.tsv,mtb.tsv,False,347,277,70,25117,341,0.20785311958326855,106,0.6486396640713848,0.3764379024505615,39,saved_models\best_bert_wide_YACHIDA_CRC_2019.pth
+iHMP_IBDMDB_2019,ok,E:\Dr_Tang\Code\iHMP_IBDMDB_2019,species.tsv,mtb.tsv,False,382,305,77,12715,78663,0.24658467640642642,28013,0.7375428935812564,0.35269895195961,124,saved_models\best_bert_wide_iHMP_IBDMDB_2019.pth
+MARS_IBS_2020,ok,E:\Dr_Tang\Code\MARS_IBS_2020,species.tsv,mtb.tsv,False,444,355,89,4067,43,0.3218065607418877,25,0.6518584093454056,0.3723367750644684,19,saved_models\best_bert_wide_MARS_IBS_2020.pth
