@@ -1,6 +1,0 @@
-Jacobian Interpretation Summary (Synthetic CSV)
-------------------------------------------------
-val samples used: 64
-selected metabolites (top by Spearman): 10
-top microbe by |grad|: 2.952043000072859691e+00
-top metabolite by |grad|: 6.201795912870136540e+00
