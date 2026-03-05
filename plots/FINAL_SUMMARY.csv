@@ -1,0 +1,2 @@
+dataset,n_total,n_train,n_val,n_features,n_targets,mean_spearman_rho,best_rho,well_predicted_rho_ge_0_3,best_val_loss,best_model_path,R2_mean,MAE_mean,RMSE_mean,used_chunk_size,used_embed_dim,used_heads,used_depth
+CSV_SYNTHETIC,999,799,200,10,10,0.7394119781170487,0.9941652457638221,10,0.002501187613233924,BERT_CSV_SYNTHETIC_outputs\saved_models\best_bert_CSV_SYNTHETIC.pth,0.9948827061370713,0.02957346455563995,0.038280560801006995,10,384,12,3

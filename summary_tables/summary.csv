@@ -1,0 +1,2 @@
+dataset,n_total,n_train,n_val,n_features,n_targets,mean_spearman,median_spearman,best_spearman,worst_spearman,well_predicted_rho_ge_0_3,R2_mean,MAE_mean,RMSE_mean,model_path
+CSV_SYNTHETIC,999,799,200,10,10,0.4839881674154126,0.4795822873610162,0.8141877212732404,0.1845795693104974,9,0.49727355990677163,0.17192509353197144,0.27351081004996036,E:\Dr_Tang\2_3_2026\BERT_CSV_SYNTHETIC_outputs\saved_models\best_bert_CSV_SYNTHETIC.pth
