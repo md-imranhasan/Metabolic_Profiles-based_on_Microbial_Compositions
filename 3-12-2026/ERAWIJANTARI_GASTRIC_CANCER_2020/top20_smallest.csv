@@ -1,0 +1,21 @@
+metabolite,microbe,abs_grad,signed_grad,met_test_spearman
+C01585_Hexanoate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__PGXB01;g__PGXB01;s__PGXB01 sp003641425,0.0111761687633891,-0.0111761687633891,0.5200037024247323
+-_Ophthalmate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__FEB-12;g__QNAD01;s__QNAD01 sp003641345,0.0095557176197568,-0.0095557176197568,0.6057459295271058
+C00398_Tryptamine,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__FEB-12;g__QNAD01;s__QNAD01 sp003641345,0.0092599059765537,-0.0092599059765537,0.7620794782821879
+C00803_Pentanoate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__PGXB01;g__PGXB01;s__PGXB01 sp003641425,0.0091708404943346,-0.0091708404943346,0.5383458646616541
+C01029_N8-Acetylspermidine,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__PGXB01;g__PGXB01;s__PGXB01 sp003641425,0.0082814953445146,-0.0082814953445146,0.558336502078332
+C00122_Fumarate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__UM-FILTER-46-8;f__UM-FILTER-46-8;g__WJIJ01;s__WJIJ01 sp014730345,0.0079292645677924,-0.0079292645677924,0.6491163937831544
+-_Ophthalmate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__UM-FILTER-46-8;f__UM-FILTER-46-8;g__WJIJ01;s__WJIJ01 sp014730345,0.0078426764036218,-0.0078426764036218,0.6057459295271058
+C00043_UDP-N-acetylglucosamine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002373375,0.0077246300255258,-0.0077246300255258,0.5415500293870048
+C00491_Cystine,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__UM-FILTER-46-8;f__UM-FILTER-46-8;g__WJIJ01;s__WJIJ01 sp014730345,0.0077200199011713,-0.0077200199011713,0.5611031824847191
+C02712_N-Acetylmethionine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp002391185,0.0073450620596607,-0.0073450620596607,0.5678868089316617
+C01585_Hexanoate,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__FEB-12;g__QQUK01;s__QQUK01 sp008501655,0.0073346583327899,-0.0073346583327899,0.5200037024247323
+C00078_Trp,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Paraprevotella;s__Paraprevotella sp910586505,0.0071341556807359,-0.0071341556807359,0.5624060150375939
+C02712_N-Acetylmethionine,d__Bacteria;p__Zixibacteria;c__MSB-5A5;o__GN15;f__FEB-12;g__QQUK01;s__QQUK01 sp008501655,0.007098325372984,-0.007098325372984,0.5678868089316617
+C00270_N-Acetylneuraminate,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__HGM04593;s__HGM04593 sp017442185,0.0070307639737923,-0.0070307639737923,0.5076534730668485
+C02712_N-Acetylmethionine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides graminisolvens,0.0069485665298998,-0.0069485665298998,0.5678868089316617
+C02712_N-Acetylmethionine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__Phocaeicola coprocola,0.0069333544621864,-0.0069333544621864,0.5678868089316617
+C00043_UDP-N-acetylglucosamine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__HGM04593;s__HGM04593 sp015060835,0.0069205025210976,-0.0069205025210976,0.5415500293870048
+C00270_N-Acetylneuraminate,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp017961115,0.0068312506191432,-0.0068312506191432,0.5076534730668485
+C00078_Trp,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp017430675,0.0068233062823613,-0.0068233062823613,0.5624060150375939
+C02712_N-Acetylmethionine,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__Phocaeicola sp002315285,0.0067628529698898,-0.0067628529698898,0.5678868089316617
